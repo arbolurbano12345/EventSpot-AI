@@ -1,0 +1,6 @@
+{
+  "name": "Atrio Eventos",
+  "description": "Sistema web dinámico de salones de eventos y proveedores de servicios para celebraciones con mapa OpenStreetMap, enlaces a Google Maps, Supabase y asistente inteligente Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
